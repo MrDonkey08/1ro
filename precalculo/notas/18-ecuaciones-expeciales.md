@@ -1,0 +1,62 @@
+# Ecuaciones Expeciales
+
+## 1. Con valor absoluto
+
+### Ejemplo
+
+ $$|x-5|=z$$
+
+Al quitar el valor absoluto por medio de su definición se obtienen $Z$ ecuaciones lineales, que al resolverlos, se obtienen $Z$ valores para x
+
+ $$\begin{array}{c|c}
+ x-5=z & x-5=-z \\
+ x=z+5 & x=-z+5 \\
+ x_1=7 & x_2=3
+\end{array}$$
+
+### Comprobaciones
+
+ $$\begin{matrix} \text{Para}\ \ x_1=7 & \text{*Para*}\ \ x_2=3 \\
+ |7-5|=z & |3-5|=z \\
+ |z|=z & |-z|=z \\
+ z=z & z=z \end{matrix}$$
+
+## 2. Por agrupación
+
+### Ejemplo
+
+$$3x^2-4x^2-27x+36=9$$
+
+Tomando en cuenta el método de factorización por agrupación
+
+ $$\begin{matrix} 3x^3-4x^2-27x+36=0 \\
+ x^2(3x-4)-9(3x-4)=0 \\
+ (3x-4)(x^2-9)=0\end{matrix}$$
+
+Separando por el teorema del cero
+
+ $$\begin{array}{c|c}
+ 3x-4=0 & x^2-9=0 \\
+ 3x=4 & x^2=9 \\
+ x_1=\frac{4}{3} & x=x^+_-\sqrt 9 \\
+ & x_2=3\ \ \ x_3=-3
+\end{array}$$
+
+## 3. Con una raíz
+
+### Ejemplo
+
+
+ $$\sqrt {2x-9}=\frac{1}{3}$$
+
+Cuando se tiene una raíz hay que quitarla y para ello se efectua al cuadrado ambos lados de la ecuación
+
+ $$\begin{matrix} 
+ (\sqrt{2x-9})^2 
+ = (\frac{1}{3})^2 \to 2x-9 
+ = \frac{1}{9} \to 2x
+ = \frac{1} {9}+9 \to 2x 
+ = \frac{82}{9} \to  x 
+ = \frac{\cancel{82}}{9\cancel{(2)}} \to x 
+ = \frac{41}{9}
+ \end{matrix}$$

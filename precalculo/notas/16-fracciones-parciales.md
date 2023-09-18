@@ -1,0 +1,38 @@
+---
+title: Fracciones Parciales
+author: Alan Yahir Juárez Rubio
+
+aliases:
+tags:
+
+creation date: 18-04-2023
+last modification date: 18-04-2023
+
+type: Note
+---
+
+# Fracciones 
+
+## Tipos de fracciones
+
+**Fracciones propias**: son aquellas fracciones que el _numerador_ es menor que el _denominador_.
+**Fracciones impropias**: son aquellas donde el _numerador_ es mayor o igual que el _denominador_.
+
+## Fraciones Parciales
+
+**Factores lineales distintos**:
+
+$$\frac{Q(x)}{(ax+b)(cx+d)\cdots} = \frac{A}{ax+b} + \frac{B}{cx+d} +\dots$$
+
+**Factores lineales repetidos**:
+
+$$\frac{Q(x)}{(ax+b)^{n}} = \frac{A}{ax+b} + \frac{B}{(ax+b)^{2}} + \cdots$$
+
+**Factores cuadráticos distintos**:
+
+$$\frac{Q(x)}{(ax^{2}+bx+c)(dx^{2}+cx+f)} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{dx^{2}+ex+f} +\cdots$$
+
+**Factores cuadráticos repetidos**:
+
+$$\frac{Q(x)}{(ax^{2}+bx+c)^{n}} = \frac{Ax+B}{ax^{2}+bx+c} + \frac{Cx+D}{(ax^{2}+bx+c)^{2}} +\cdots$$
+
